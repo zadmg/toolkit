@@ -60,6 +60,28 @@
 
 ---
 
+### 3. shannon 【收藏】
+
+- **项目地址**: https://github.com/KeygraphHQ/shannon
+- **原作者**: [KeygraphHQ](https://github.com/KeygraphHQ)
+- **说明**: 自主白盒AI渗透测试工具 - 针对Web应用和API的安全审计
+
+#### 功能特点
+
+- 白盒测试：分析源代码识别攻击向量
+- 自主执行真实漏洞利用
+- 支持Web应用和API安全测试
+- 在漏洞进入生产环境前发现并验证
+
+#### 适用场景
+
+- Web应用安全测试
+- API安全审计
+- 源代码安全分析
+- 持续安全集成
+
+---
+
 ## 返回
 
 [返回主页](../../tree/main)
