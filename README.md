@@ -7,7 +7,7 @@
 | 分支名称 | 说明 | 包含项目 |
 |---------|------|---------|
 | [逆向工程](../../tree/逆向工程) | 逆向分析、反编译、调试工具 | rusda, radare2 |
-| [安全测试](../../tree/安全测试) | 渗透测试、加密分析、安全审计 | pentagi, help_tool |
+| [安全测试](../../tree/安全测试) | 渗透测试、加密分析、安全审计 | pentagi, help_tool, shannon |
 | [网页爬虫](../../tree/网页爬虫) | 网页抓取、数据采集 | scrapling |
 | [自动化工具](../../tree/自动化工具) | CLI工具、自动化脚本 | cli-anything |
 
@@ -26,6 +26,7 @@
 |---------|------|------|
 | [pentagi](https://github.com/vxcontrol/pentagi) | [vxcontrol](https://github.com/vxcontrol) | AI驱动渗透测试平台，内置20+安全工具 |
 | [help_tool](https://github.com/zadmg/help_tool) | [zadmg](https://github.com/zadmg) | 推理算法助手，加密算法识别与解密工具 |
+| [shannon](https://github.com/KeygraphHQ/shannon) | [KeygraphHQ](https://github.com/KeygraphHQ) | 自主白盒AI渗透测试工具，分析源代码执行真实漏洞利用 |
 
 ### 网页爬虫
 
