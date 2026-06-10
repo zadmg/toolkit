@@ -17,7 +17,7 @@
 
 | 项目名称 | 作者 | 说明 |
 |---------|------|------|
-| [rusda](https://github.com/zadmg/rusda) | [zadmg](https://github.com/zadmg) | Frida逆向工程编译流程文档，支持17.6.2版本 |
+| [rusda](https://github.com/taisuii/rusda) | [taisuii](https://github.com/taisuii) | Frida逆向工程编译流程文档，支持17.6.2版本 |
 | [radare2](https://github.com/radareorg/radare2) | [radareorg](https://github.com/radareorg) | 开源逆向工程框架，支持多架构分析 |
 
 ### 安全测试
