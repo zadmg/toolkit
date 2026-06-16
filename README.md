@@ -6,7 +6,7 @@
 
 | 分支名称 | 说明 | 包含项目 |
 |---------|------|---------|
-| [逆向工程](../../tree/逆向工程) | 逆向分析、反编译、调试工具 | rusda, radare2 |
+| [逆向工程](../../tree/逆向工程) | 逆向分析、反编译、调试工具 | rusda, radare2, WinsockPacketEditor |
 | [安全测试](../../tree/安全测试) | 渗透测试、加密分析、安全审计 | pentagi, help_tool, shannon |
 | [网页爬虫](../../tree/网页爬虫) | 网页抓取、数据采集 | scrapling |
 | [自动化工具](../../tree/自动化工具) | CLI工具、自动化脚本 | cli-anything |
@@ -19,6 +19,7 @@
 |---------|------|------|
 | [rusda](https://github.com/taisuii/rusda) | [taisuii](https://github.com/taisuii) | Frida逆向工程编译流程文档，支持17.6.2版本 |
 | [radare2](https://github.com/radareorg/radare2) | [radareorg](https://github.com/radareorg) | 开源逆向工程框架，支持多架构分析 |
+| [WinsockPacketEditor](https://github.com/x-nas/WinsockPacketEditor) | [x-nas](https://github.com/x-nas) | WPE x64封包拦截修改工具，支持32/64位程序 |
 
 ### 安全测试
 
