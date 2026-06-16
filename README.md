@@ -47,6 +47,28 @@
 
 ---
 
+### 3. WinsockPacketEditor 【收藏】
+
+- **项目地址**: https://github.com/x-nas/WinsockPacketEditor
+- **原作者**: [x-nas](https://github.com/x-nas)
+- **说明**: WPE x64 - Windows网络封包拦截与修改工具
+
+#### 功能特点
+
+- 拦截并修改 WinSock 封包
+- 自适应支持 32 位及 64 位目标程序
+- 支持 Hook 和注入技术
+- 可配合代理服务器使用（CCProxy、Charles、Fiddler等）
+
+#### 适用场景
+
+- 网络协议分析
+- 游戏封包修改
+- 网络调试
+- 安全测试
+
+---
+
 ## 返回
 
 [返回主页](../../tree/main)
