@@ -9,7 +9,7 @@
 | [逆向工程](../../tree/逆向工程) | 逆向分析、反编译、调试工具 | rusda, radare2, WinsockPacketEditor |
 | [安全测试](../../tree/安全测试) | 渗透测试、加密分析、安全审计 | pentagi, help_tool, shannon |
 | [网页爬虫](../../tree/网页爬虫) | 网页抓取、数据采集 | scrapling |
-| [自动化工具](../../tree/自动化工具) | CLI工具、自动化脚本 | cli-anything |
+| [自动化工具](../../tree/自动化工具) | CLI工具、自动化脚本 | cli-anything, API-mega-list |
 
 ## 项目列表
 
@@ -40,6 +40,7 @@
 | 项目名称 | 作者 | 说明 |
 |---------|------|------|
 | [cli-anything](https://github.com/HKUDS/CLI-Anything) | [HKUDS](https://github.com/HKUDS) | CLI自动化工具集，让AI Agent控制84种软件 |
+| [API-mega-list](https://github.com/cporter202/API-mega-list) | [cporter202](https://github.com/cporter202) | 海量API资源合集，覆盖AI、电商、社交媒体等领域 |
 
 ---
 
