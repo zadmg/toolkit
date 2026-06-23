@@ -47,6 +47,28 @@ cli-hub install <name>
 
 ---
 
+### 2. API-mega-list 【收藏】
+
+- **项目地址**: https://github.com/cporter202/API-mega-list
+- **原作者**: [cporter202](https://github.com/cporter202)
+- **说明**: 海量API资源合集 - 覆盖AI、电商、社交媒体、Web爬虫等领域
+
+#### 功能特点
+
+- 收集大量可立即使用的API
+- 覆盖AI工具、电商、社交媒体、房地产、数据采集等领域
+- 包含MCP和Apify相关资源
+- 开源开发者工具资源导航
+
+#### 适用场景
+
+- 快速查找可用API
+- 应用开发集成
+- 数据采集与爬虫
+- 自动化脚本开发
+
+---
+
 ## 返回
 
 [返回主页](../../tree/main)
